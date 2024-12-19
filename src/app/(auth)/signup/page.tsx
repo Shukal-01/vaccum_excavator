@@ -12,8 +12,8 @@ export default function SignupRole() {
             Choose Your Path
           </h1>
           <p className="text-gray-600 max-w-md mx-auto">
-            Whether you're looking to supply equipment or find the perfect tool
-            for your project, we've got you covered.
+            Whether you&rsquo;re looking to supply equipment or find the perfect tool
+            for your project, we&lsquo;ve got you covered.
           </p>
         </div>
 

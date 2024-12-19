@@ -32,7 +32,7 @@ export default function Home() {
               variant="ghost"
               className="text-white hover:text-primary hover:bg-white/10"
             >
-              <Link href="/signup">Get Started</Link>
+              {/* <Link href="/signup">Get Started</Link> */}
             </Button>
           </div>
 
